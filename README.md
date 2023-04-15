@@ -4,7 +4,6 @@
   <img alt="Rituraj's Profile Views" src="https://komarev.com/ghpvc/?username=riturajkadamati&style=flat&color=blue&label=Profile%20View"/>
   <img alt="Rituaj's GitHub Followers" src="https://img.shields.io/github/followers/riturajkadamati?style=flat&color=blue&label=Followers"/>
   <img alt="Rituraj's GitHub Stars" src="https://img.shields.io/github/stars/riturajkadamati?style=flat&color=blue&label=Stars"/>
- <img alt="MIT LICENCE" src="https://img.shields.io/github/license/DhrumilShah98/DhrumilShah98?style=flat&color=blue&label=Licence"/>
 </p>
 <h3 align="center">I am a skilled full-stack developer and have experience in programming languages such as Java and and have hands-on experience with various technologies such as React, TypeScript, Angular, Node, AWS, and Express, as well as cloud platforms like AWS and Docker.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
